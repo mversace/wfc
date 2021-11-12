@@ -19,5 +19,3 @@
     const cellWidth = 48;
     // 摄像机与目标点的距离 格子显示不下就把这个值变大
     const s = 300;
-    
-![image](https://github.com/mversace/wfc/blob/main/resources/summer/QQ%E6%88%AA%E5%9B%BE20211112171547.png)
