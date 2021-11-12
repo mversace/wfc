@@ -1,3 +1,5 @@
+WFC算法：https://github.com/mxgmn/WaveFunctionCollapse
+
 启动:
 1. 安装node环境
 2. 本目录下执行 node app.js
