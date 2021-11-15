@@ -21,3 +21,5 @@ WFC算法：https://github.com/mxgmn/WaveFunctionCollapse
     const cellWidth = 48;
     // 摄像机与目标点的距离 格子显示不下就把这个值变大
     const s = 300;
+
+![image](https://user-images.githubusercontent.com/10512526/141739088-c28cdd8c-cebb-4a15-bc39-084cdd2fe244.png)
